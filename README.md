@@ -106,7 +106,7 @@ isEqual({ x: 1 }, { x: 2 })  // false
 
 ```bash
 # kur
-npm install @kerem/deep-diff
+npm install github:kwrem-8/deep-diff
 
 # örneği çalıştır
 npm run example
