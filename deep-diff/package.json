@@ -1,0 +1,22 @@
+{
+  "name": "@kerem/deep-diff",
+  "version": "1.0.0",
+  "description": "Zero-dependency utility that compares two JavaScript objects and reports exactly what changed, where, and how.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/index.test.js",
+    "example": "node examples/basic.js"
+  },
+  "keywords": [
+    "diff",
+    "deep-diff",
+    "object-diff",
+    "compare",
+    "json-diff"
+  ],
+  "author": "Kerem",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  }
+}
